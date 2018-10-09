@@ -7,10 +7,10 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>src/com/lpr/uni/code/arg/config/persistence-context.xml</config>
-		<config>src/com/lpr/uni/code/arg/config/service-context.xml</config>
-		<config>src/com/lpr/uni/code/arg/config/security-context.xml</config>
 		<config>WebContent/WEB-INF/DispatcherServlet-servlet.xml</config>
+		<config>src/com/lpr/uni/code/arg/config/persistence-context.xml</config>
+		<config>src/com/lpr/uni/code/arg/config/security-context.xml</config>
+		<config>src/com/lpr/uni/code/arg/config/service-context.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

@@ -25,9 +25,9 @@
   <context-param>
     <param-name>contextConfigLocation</param-name>
     <param-value>
-  		classpath:com/wft/money/play/config/persistence-context.xml
-  		classpath:com/wft/money/play/config/service-context.xml
-  		classpath:com/wft/money/play/config/security-context.xml
+  		classpath:com/lpr/uni/code/arg/config/persistence-context.xml
+  		classpath:com/lpr/uni/code/arg/config/service-context.xml
+  		classpath:com/lpr/uni/code/arg/config/security-context.xml
   	</param-value>
   </context-param>
   <resource-ref>
